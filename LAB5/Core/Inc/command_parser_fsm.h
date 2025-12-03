@@ -1,0 +1,14 @@
+/*
+ * command_parser_fsm.h
+ *
+ *  Created on: Nov 26, 2025
+ *      Author: User
+ */
+
+#ifndef INC_COMMAND_PARSER_FSM_H_
+#define INC_COMMAND_PARSER_FSM_H_
+#include <stdint.h>
+void command_parser_fsm(void);
+
+
+#endif /* INC_COMMAND_PARSER_FSM_H_ */
